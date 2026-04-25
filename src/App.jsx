@@ -19,6 +19,14 @@ const movies = [
     title: "Joker",
     image: "https://via.placeholder.com/300x400?text=Joker",
   },
+  {
+    title: "Joker1",
+    image: "https://via.placeholder.com/300x400?text=Joker1",
+  },
+  {
+    title: "Joker1",
+    image: "https://via.placeholder.com/300x400?text=Joker1",
+  },
 ];
 
 function App() {
